@@ -36,7 +36,7 @@ Execute the python file <a href="src/conway.py" style="color:green;text-indent:5
 
 Run the <a href="app/dist/conway.exe" style="color:green;text-indent:50px">conway.exe</a> in `app/dist/` folder. It's an executable file for the same.
 
-Press the `escape` button to close the script in both cases.
+Press the `escape` button to close the script in both cases and pressing `space` generates a random seed.
 
 ### License
 
